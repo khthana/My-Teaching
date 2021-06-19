@@ -1,0 +1,25 @@
+Hi
+
+Thank you for downloading these source files and your interest in my book.
+
+The file names relate directly to the program number used in each chapter.
+Thus the file 'prog3a.s' is the source file for Program 3a in the book.
+Files may require running, assembling and executing in different ways 
+depending on their structure, so please check the book at the apprioriate point.
+
+These file will work with all versions of the Raspberry Pi (as per July 2016) - RPi 3, RPi2, RPi1 & RPi Zero.
+Some, esepecially those relating to programming the GPIO port may require minor modifications.
+This is highligted in the text of the book at the appropriate point,a dn wioth comments in the source files.
+
+Please do check out my website at www.brucesmith.info.
+
+Feel free to drop me a line at:
+
+feedback@brucesmith.info
+
+I read all emails and try to reply to as many as possible.
+
+Keep healthy.
+
+Regards
+Bruce
