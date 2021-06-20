@@ -1,1 +1,1 @@
-# My-Teaching
+# Teaching
