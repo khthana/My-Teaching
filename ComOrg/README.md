@@ -12,6 +12,13 @@
   <li> <a href="https://www.includehelp.com/c-programs/recursion-examples.aspx">C programming Recursion Examples, Programs </a></li>
   <li> <a href="https://medium.com/sathittham/g-assistant-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99-raspberry-pi-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%88%E0%B8%AD-hdmi-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94-53cec1b36e63">ตั้งค่าพื้นฐาน Raspberry Pi โดยไม่ใช้จอ HDMI และคีย์บอร์ด</a></li>
    <li> <a href="https://www.techtalkthai.com/assembly-fun-games/">แนะนำ 3 เกมที่ทำให้ภาษา Assembly เป็นเรื่องสนุก</a></li>
+  <li> <a href="https://nptel.ac.in/courses/106/106/106106092/">NPTEL</a></li>
+  <li> <a href="https://www.techtalkthai.com/fujitsu-sparc-m12-12-cores-vs-16-cores/">ไขข้อข้องใจ Fujitsu SPARC M12 ทำไม CPU 12 Cores กลับเร็วกว่า 16 Cores </a></li>
+  <li> <a href="https://www.youtube.com/watch?v=C5TbHcK_qvE">SHENZHEN I/O, by Zachtronics</a></li>
+  <li> <a href="https://www.facebook.com/watch/?v=611302592573427">บุกโรงงานเมนบอร์ด Gigabyte</a></li>
+<li> <a href="https://www.facebook.com/watch/?v=601261306910889">บุกโรงงาน WD ในประเทศไทย</a></li>
+<li> <a href="https://www.extremeit.com/intel-ice-lake-canonlake-tiger-lake-cpu-10nm/">Intel Ice Lake จะมาในปี 2018 และ Tiger Lake ในปี 2019</a></li>
+<li> <a href="https://www.cs.utah.edu/~rajeev/cs3810/">Spring 2020: CS/ECE 3810 Computer Organization</a></li>  
 </ol>  
   
 <h2>ARM assembly</h2>
@@ -33,6 +40,6 @@
     <li> <a href="http://www.cs.utah.edu/%7Erajeev/cs3810/">CS/ECE 3810 Computer Organization </a></li>
     <li> <a href="http://www-inst.eecs.berkeley.edu/~cs61c/fa17/">Great Ideas in Computer Architecture</a></li>
     <li> <a href="https://www.chegg.com/homework-help/computer-organization-and-design-arm-edition-0th-edition-solutions-9780128017333">Computer Organization and Design ARM Edition : Solution</a></li>
-    <li> <a href="https://booksite.elsevier.com/9780123744937/?ISBN=9780123744937">Computer Organization and Design
-About this companion site</a></li>
+    <li> <a href="https://booksite.elsevier.com/9780123744937/?ISBN=9780123744937">Computer Organization and Design About this companion site</a></li>
+    <li> <a href="http://csapp.cs.cmu.edu/3e/instructors.html">Computer Systems A Programmer Perspective 3e, Bryant and O'Hallaron</a></li>
 </ol>  
