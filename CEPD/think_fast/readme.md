@@ -2,7 +2,7 @@ Thinking, Fast and Slow (2011)
 
 by Daniel Kahneman
 
-< t1 >
+<img src="https://github.com/khthana/Teaching/edit/main/CEPD/think_fast/T1.jpg" alt="T1"><br>
 
 “Nothing in life is as important as you think it is, while you are thinking about it”
 
