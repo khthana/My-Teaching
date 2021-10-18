@@ -1,7 +1,7 @@
 ## CEPD
 
 ### Thinking 
-([สรุปหนังสือ] Thinking, Fast and Slow)[https://www.panasm.com/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-thinking-fast-and-slow/]
+[[สรุปหนังสือ] Thinking, Fast and Slow](https://www.panasm.com/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-thinking-fast-and-slow/)
 
 (Thinking Fast and Slow เปิดงานวิจัยกว่าสิบปีของ Daniel Kahneman เกี่ยวกับกระบวนการทำงานของสมอง)[https://www.salika.co/2018/05/23/thinking-fast-and-slow/]
 
