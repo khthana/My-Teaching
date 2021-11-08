@@ -9,6 +9,9 @@
 
 [การคิด 2 ระบบ - Thinking, Fast And Slow](https://www.youtube.com/embed/IkX3W0VwYOU)
 
+### PM
+[Microsoft Project ALL: BEGINNER to EXPERT 10 Projects 9 PDU](https://www.udemy.com/course/microsoft-project-tutorial/learn/lecture/5001462#overview)
+
 ### ความสุข
 [อะไรคือความสุขที่แท้จริง](https://www.facebook.com/Johjai/videos/248566969541502)
 [วิชาความสุขที่มีสอนแค่ในฮาร์วาร์ด](https://www.youtube.com/watch?v=CiA4nUk4ODk)
@@ -17,8 +20,19 @@
 
 ### Presentation
 [จดบันทึก FB Live - Slide ผิด ชีวิตเปลี่ยน](https://www.mikkipastel.com/fb-live-how-to-do-slide-by-learn-squad/)
+[นำเสนอมีพลังอย่างมืออาชีพ](https://www.youtube.com/watch?v=wT1Rhi-YCCE&list=PL5p5BSBkUUI585xC66cgONLybZNZ28Xei)
 [PowerPoint สาธิตการทำอนิเมชันโดยการใช้การเปลี่ยนสไลด์แบบ มอร์ฟ](https://www.youtube.com/watch?v=dtQVYQIar6g)
 [ SP SPOON](https://www.youtube.com/channel/UC5ITg4hNJVKkCCT3HzMmc6A)
+[Pitching Presentation](https://lovegoodor.medium.com/pitching-presentation-365d0bf08026)
+[Pitching ที่ดีเป็นอย่างไร](https://thestandard.co/ais-the-startup-persuasive-startup-pitching/)
+[AISTheStartup](https://www.facebook.com/AISTheStartup/)
+[academy](https://academy.cea.or.th/course/18/?is_coniclex=false)
+[สี](https://www.facebook.com/somprasong.kanjanawattana/posts/3650860378264345)
+[BetterPitch](https://betterpitchnow.com/article/colour)
+
+### STORY TELLING 
+[How to Tell a Story With Data: A Guide for Beginners](https://venngage.com/blog/data-storytelling/)
+
 
 ### RESUME
 [รวมไอเดีย RESUME สวยสะดุดตา โดนใจ HR](https://salehere.co.th/articles/resume-ideas-for-first-job)
